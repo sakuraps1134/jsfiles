@@ -1,0 +1,15 @@
+{
+  "name": "編成検索",
+  "short_name": "編成検索",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://github.com/sakuraps1134/imagebox/blob/main/favicon.png?raw=true",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
